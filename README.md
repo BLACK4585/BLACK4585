@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BLACK</h1>
-<h3 align="center">A student from Germany. I'm interested in development overall and always try to learn somehing new.</h3>
+<h3 align="center">A student from Germany. I'm interested in development overall and always try to learn something new.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black4585&label=Profile%20views&color=0e75b6&style=flat" alt="black4585" /> </p>
 
