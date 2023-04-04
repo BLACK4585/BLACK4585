@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me: **https://discord.com/users/573728044318195712 or blackhex000000@gmail.com**
+- 📫 How to reach me: **blackhex000000@gmail.com**
 
 - ⚡ Fun fact: **My name is BLACK because I didn't want to pixel a Minecraft Skin -_-**
 
