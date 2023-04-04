@@ -12,6 +12,7 @@
 - ⚡ Fun fact: **My name is BLACK because I didn't want to pixel a Minecraft Skin -_-**
 
 <h3 align="left">Connect with me:</h3>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/573728044318195712)](https://discord.com/users/573728044318195712)
 
 <h3 align="left">Languages and Tools:</h3>
