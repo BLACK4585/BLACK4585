@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://discord.gg/https://discord.com/users/573728044318195712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/573728044318195712" height="30" width="40" /></a>
 </p>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/573728044318195712)](https://discord.com/users/573728044318195712)
 
 <h3 align="left">Languages and Tools:</h3>
