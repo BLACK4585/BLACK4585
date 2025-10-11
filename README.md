@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black4585&label=Profile%20views&color=0e75b6&style=flat" alt="black4585" /> </p>
 
+- 📫 How to reach me: **black@devblack.de**
+
 - ⚡ Fun fact: **My name is BLACK because I didn't want to pixel a Minecraft Skin -_-**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +25,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/black4585/black4585/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-_Yes, this README is a bit outdated
-
